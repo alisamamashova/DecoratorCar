@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B5FCF3E6-B35A-4BBB-B499-CAA3269A66FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratorCar/AutoBase.cs">
+    <Files>
+      <File FileName="DecoratorCar/Program.cs" Line="15" Column="13" />
+      <File FileName="DecoratorCar/AutoBase.cs" Line="18" Column="6" />
+      <File FileName="DecoratorCar/Audi.cs" Line="8" Column="2" />
+      <File FileName="DecoratorCar/Bmw.cs" Line="10" Column="3" />
+      <File FileName="DecoratorCar/Options.cs" Line="1" Column="1" />
+      <File FileName="DecoratorCar/Tires.cs" Line="20" Column="10" />
+      <File FileName="DecoratorCar/Insurance.cs" Line="29" Column="10" />
+      <File FileName="DecoratorCar/Conditioner.cs" Line="24" Column="4" />
+      <File FileName="DecoratorCar/Engine.cs" Line="18" Column="56" />
+      <File FileName="DecoratorCar/Mercedes.cs" Line="13" Column="47" />
+      <File FileName="DecoratorCar/Mehendi.cs" Line="13" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DecoratorCar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
